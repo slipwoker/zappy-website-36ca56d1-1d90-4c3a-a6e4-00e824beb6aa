@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לעולם של Gpl — מותג אופנה יוקרתי בהשראת המדבר. גוונים חמים, קווים נקיים ואסתטיקה מינימליסטית מרוממת מחכים לך. גלה את הקולקציה עכשיו.
+
+### סיפור המותג
+https://example.com/brand-story
+סיפור המותג Gpl הוא סיפור של תשוקה, נוף מדברי עוצר נשימה וחזון עיצובי ייחודי. גלה כיצד נולד מותג יוקרה שמשלב אדמה ומודרניות לכדי יצירת אמנות לבישה.
+
+### עריכה
+https://example.com/editorial
+מגזין העריכה של Gpl חושף עולמות ויזואליים מרהיבים בהשראת נופי מדבר. תמונות, טרנדים ותוכן יצירתי שיעורר בך השראה ויגדיר מחדש את הגדרת האופנה הגבוהה.
+
+### צור קשר
+https://example.com/contact
+רוצה לשמוע עוד על Gpl? צור קשר עם הצוות שלנו ונשמח לענות על כל שאלה, שיתוף פעולה או הזמנה מיוחדת. אנחנו כאן לשרתך ברמה הגבוהה ביותר.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Gpl
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Gpl
+
+### Category
+https://example.com/category/:slug
+מוצרים - Gpl
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
